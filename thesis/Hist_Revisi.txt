@@ -1,0 +1,7 @@
+Template thesis revisi 2.0 :
+- Penambahan halaman lampiran
+- Modifikasi center footer menjadi L(No.Halaman)
+
+Template thesis revisi 1.0 :
+- Perbaikan beberapa item paragraf diawal section.
+- Penambahan daftar pustaka/BibTeX. (JabRef harus sudah ter-install).
